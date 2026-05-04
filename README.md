@@ -45,3 +45,9 @@ If you're looking for a motivated and fast-learning developer — feel free to r
 ---
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+
+![snake gif](https://github.com/Sjutzu/Sjutzu/blob/output/github-snake-dark.svg)
+
